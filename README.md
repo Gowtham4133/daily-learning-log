@@ -1,2 +1,7 @@
 # daily-learning-log
-Daily log of my learning progress and skill development.
+## Daily log of my learning progress and skill development.
+
+- **Day 1- creating resume**
+  > Statistical knowledge is the understanding of concepts and methods for collecting, organizing, analyzing, and interpreting
+  > Data interpretation is the process of analyzing and making sense of data, often from visual formats like graphs and tables, to draw conclusions and make informed decisions
+
