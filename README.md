@@ -3,5 +3,5 @@
 
 - **Day 1- creating resume**
   >1. <ins>Statistical knowledge</ins> is the understanding of concepts and methods for collecting, organizing, analyzing, and interpreting
-  >2. Data interpretation is the process of analyzing and making sense of data, often from visual formats like graphs and tables, to draw conclusions and make informed decisions
+  >2. <ins>Data interpretation</ins> is the process of analyzing and making sense of data, often from visual formats like graphs and tables, to draw conclusions and make informed decisions
 
