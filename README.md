@@ -11,3 +11,10 @@
   >    3. Use a different port: If a peripheral isn't working, try a different USB port to rule out a faulty port.
   >    4. Perform a visual inspection: Look for any signs of physical damage, such as burnt components or bulging capacitors on the motherboard. 
 
+- **C Language**
+ > C is a general-purpose programming language, which is widely used to design any type of desktop-based applications. It was developed by Dennis Ritchie as a system programming language to develop the operating system.
+
+ > The main features of C language include low-level access to memory, a simple set of keywords, and a clean style, these features make C language suitable for system programming like OS or compiler development. In nature it uses a native platform development scheme, ie the development of the application by it is platform-dependent and can only be used on a single platform.
+
+-**Embedded C**
+ > Embedded C is an extension of C language and it is used to develop micro-controller-based applications. The extensions in the Embedded C language from normal C Programming Language are the I/O Hardware Addressing, fixed-point arithmetic operations, accessing address spaces, etc.
