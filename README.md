@@ -16,5 +16,14 @@
 
  > The main features of C language include low-level access to memory, a simple set of keywords, and a clean style, these features make C language suitable for system programming like OS or compiler development. In nature it uses a native platform development scheme, ie the development of the application by it is platform-dependent and can only be used on a single platform.
 
--**Embedded C**
+- **Embedded C**
  > Embedded C is an extension of C language and it is used to develop micro-controller-based applications. The extensions in the Embedded C language from normal C Programming Language are the I/O Hardware Addressing, fixed-point arithmetic operations, accessing address spaces, etc.
+
+
+-**Embedded C Program has five layers of Basic Structures. They are:**
+
+> Comment: These are simple readable text, written in code to make it more understandable to the user. Usually comments are written in // or /* */.
+> Pre-processor directives: The Pre-Processor directives tell the compiler which files to look in to find the symbols that are not present in the program.
+Global Declaration: The part of the code where global variables are defined.
+> Local Declaration: The part of the code where local variables are defined.
+> Main function: Every C program has a main function that drives the whole code. It basically has two parts the declaration part and the execution part. Where, the declaration part is where all the variables are declared, and the execution part defines the whole structure of execution in the program.
